@@ -67,6 +67,9 @@ while (learning) {
 - **[ansible-workshop](https://github.com/stumpf-works/ansible-workshop)** – Ansible Playbooks und Rollen für Infrastruktur-Automation
 - **[proxmox-toolkit](https://github.com/stumpf-works/proxmox-toolkit)** – Helper Scripts und Tools für Proxmox VE
 
+### 🤖 Bots & Automation
+- **[discord-workshop](https://github.com/stumpf-works/discord-workshop)** – Discord Bots und Automatisierungen
+
 ---
 
 *Weitere Projekte zu Smart Home, DIY-Hardware und Experimenten folgen in Kürze!*
