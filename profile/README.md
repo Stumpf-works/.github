@@ -51,15 +51,25 @@ while (learning) {
 - **📚 Learn by Doing** – Die besten Lektionen kommen aus geschmolzenen LEDs
 - **🤝 Community Driven** – Zusammen macht's mehr Spaß
 
-## 📂 Projekt-Highlights
+## 📂 Unsere Repositories
 
-Schau dich in unseren Repositories um! Hier findest du:
+### 🐧 Linux & Unix
+- **[bash-toolkit](https://github.com/stumpf-works/bash-toolkit)** – Shell Scripts und Tools für Linux
+- **[unix-utils](https://github.com/stumpf-works/unix-utils)** – Nützliche Utilities für Unix-Systeme
 
-- 📱 **Praktische Tools** für den Entwickleralltag
-- 🏠 **Smart Home Lösungen** zum Nachbauen
-- 🎓 **Tutorials & Anleitungen** für deine eigenen Projekte
-- 🧪 **Experimente** – nicht alles muss Sinn ergeben
-- 📝 **Dokumentation** – weil auch wir manchmal vergessen, wie's ging
+### 🪟 Windows
+- **[powershell-arsenal](https://github.com/stumpf-works/powershell-arsenal)** – PowerShell Scripts für Windows Automation
+
+### 📜 Cross-Platform
+- **[script-stash](https://github.com/stumpf-works/script-stash)** – Sammlung verschiedener Scripts für alle Systeme
+
+### 🎭 Automation & Infrastructure
+- **[ansible-workshop](https://github.com/stumpf-works/ansible-workshop)** – Ansible Playbooks und Rollen für Infrastruktur-Automation
+- **[proxmox-toolkit](https://github.com/stumpf-works/proxmox-toolkit)** – Helper Scripts und Tools für Proxmox VE
+
+---
+
+*Weitere Projekte zu Smart Home, DIY-Hardware und Experimenten folgen in Kürze!*
 
 ## 🤝 Mitmachen
 
